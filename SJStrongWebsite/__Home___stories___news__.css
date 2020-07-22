@@ -1,0 +1,694 @@
+.mediaViewInfo {
+	--web-view-name: * Home - stories & news *;
+	--web-view-id: _Home_-_stories__news_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: _Home_-_stories__news_;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#_Home_-_stories__news_ {
+	position: absolute;
+	width: 1920px;
+	height: 3218px;
+	background-color: rgba(253,255,255,1);
+	overflow: hidden;
+	--web-view-name: * Home - stories & news *;
+	--web-view-id: _Home_-_stories__news_;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_45 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_45 {
+	position: absolute;
+	overflow: visible;
+	width: 1822px;
+	height: 1211px;
+	left: 48px;
+	top: 844px;
+}
+#Group_33 {
+	position: absolute;
+	width: 1822px;
+	height: 115px;
+	left: 48px;
+	top: 844px;
+	overflow: visible;
+}
+#Rectangle_46 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_46 {
+	position: absolute;
+	overflow: visible;
+	width: 1822px;
+	height: 115px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_48 {
+	fill: rgba(225,226,239,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_48 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 48px;
+	top: 844px;
+}
+#Rectangle_49 {
+	fill: rgba(225,226,239,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_49 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 503px;
+	top: 844px;
+}
+#Rectangle_50 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_50 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 1414px;
+	top: 844px;
+}
+#Rectangle_51 {
+	fill: rgba(225,226,239,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_51 {
+	position: absolute;
+	overflow: visible;
+	width: 455.5px;
+	height: 115px;
+	left: 959px;
+	top: 844px;
+}
+#Events {
+	left: 204px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Repeat_Grid_4 {
+	position: absolute;
+	width: 1642px;
+	height: 1016px;
+	left: 139px;
+	top: 1039px;
+	overflow: hidden;
+}
+#Group_14 {
+	position: absolute;
+	width: 1642.5px;
+	height: 610.5px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Empowering_our_communities__Lo {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 1643px;
+	height: 394px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Continue_reading {
+	left: 1px;
+	top: 454px;
+	position: absolute;
+	overflow: visible;
+	width: 367px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#July_20_2020 {
+	left: 1px;
+	top: 523px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(98,98,98,1);
+}
+#Path_8 {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8 {
+	overflow: visible;
+	position: absolute;
+	width: 20.051px;
+	height: 33.031px;
+	left: 387.357px;
+	top: 469.269px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_13 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_13 {
+	overflow: visible;
+	position: absolute;
+	width: 1642px;
+	height: 1px;
+	left: 0.5px;
+	top: 610.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_14_fo {
+	position: absolute;
+	width: 1642.5px;
+	height: 610.5px;
+	left: 0px;
+	top: 691px;
+	overflow: visible;
+}
+#Empowering_our_communities__Lo_fp {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: hidden;
+	width: 1643px;
+	height: 394px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Continue_reading_fq {
+	left: 1px;
+	top: 454px;
+	position: absolute;
+	overflow: visible;
+	width: 367px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+	text-decoration: underline;
+}
+#July_20_2020_fr {
+	left: 1px;
+	top: 523px;
+	position: absolute;
+	overflow: visible;
+	width: 196px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(98,98,98,1);
+}
+#Path_8_fs {
+	fill: transparent;
+	stroke: rgba(0,0,0,1);
+	stroke-width: 5px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_8_fs {
+	overflow: visible;
+	position: absolute;
+	width: 20.051px;
+	height: 33.031px;
+	left: 387.357px;
+	top: 469.269px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_13_ft {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Path_13_ft {
+	overflow: visible;
+	position: absolute;
+	width: 1642px;
+	height: 1px;
+	left: 0.5px;
+	top: 610.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectangle_57 {
+	fill: rgba(82,90,93,1);
+}
+.Rectangle_57 {
+	position: absolute;
+	overflow: visible;
+	width: 16px;
+	height: 400px;
+	left: 1833px;
+	top: 985px;
+}
+#Businesses {
+	left: 618px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 226px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Organizations {
+	left: 1044px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 286px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_48 {
+	position: absolute;
+	width: 1920px;
+	height: 148px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7_f {
+	fill: rgba(153,157,209,1);
+}
+.Rectangle_7_f {
+	filter: drop-shadow(0px 3px 1px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 152.5px;
+	left: 0px;
+	top: 0px;
+}
+#Group_47_f {
+	position: absolute;
+	width: 120px;
+	height: 84px;
+	left: 1750px;
+	top: 32px;
+	overflow: visible;
+}
+#Rectangle_73_ga {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_ga {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 15px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_74_gb {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_gb {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 16px;
+	left: 0px;
+	top: 34px;
+}
+#Rectangle_75_gc {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_75_gc {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 15px;
+	left: 0px;
+	top: 69px;
+}
+#Stories__News {
+	left: 1486px;
+	top: 877px;
+	position: absolute;
+	overflow: visible;
+	width: 312px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#sj_strong_header_home {
+	position: absolute;
+	width: 1920px;
+	height: 794px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#header {
+	position: absolute;
+	width: 1920px;
+	height: 646px;
+	left: 0px;
+	top: 148px;
+	overflow: visible;
+}
+#Path_2 {
+	fill: rgba(225,226,239,1);
+}
+.Path_2 {
+	overflow: visible;
+	position: absolute;
+	width: 1920px;
+	height: 646px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_48_f {
+	position: absolute;
+	width: 1920px;
+	height: 148px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_7_f {
+	fill: rgba(153,157,209,1);
+}
+.Rectangle_7_f {
+	filter: drop-shadow(0px 3px 1px rgba(0, 0, 0, 0.161));
+	position: absolute;
+	overflow: visible;
+	width: 1923px;
+	height: 152.5px;
+	left: 0px;
+	top: 0px;
+}
+#Group_47_f {
+	position: absolute;
+	width: 120px;
+	height: 84px;
+	left: 1750px;
+	top: 32px;
+	overflow: visible;
+}
+#Rectangle_73_ga {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_73_ga {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 15px;
+	left: 0px;
+	top: 0px;
+}
+#Rectangle_74_gb {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_74_gb {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 16px;
+	left: 0px;
+	top: 34px;
+}
+#Rectangle_75_gc {
+	fill: rgba(255,255,255,1);
+}
+.Rectangle_75_gc {
+	position: absolute;
+	overflow: visible;
+	width: 120px;
+	height: 15px;
+	left: 0px;
+	top: 69px;
+}
+#Group_51 {
+	position: absolute;
+	width: 1072px;
+	height: 347px;
+	left: 130px;
+	top: 332px;
+	overflow: visible;
+}
+#San_Jos_Strong {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 1073px;
+	height: 152px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 110px;
+	color: rgba(0,0,0,1);
+}
+#A_grassroots_platform_to_reinv {
+	left: 0px;
+	top: 171px;
+	position: absolute;
+	overflow: visible;
+	width: 1073px;
+	height: 176px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Mask_Group_3 {
+	position: absolute;
+	width: 470px;
+	height: 619px;
+	left: 1320px;
+	top: 171px;
+	overflow: visible;
+}
+#mission_statement {
+	position: absolute;
+	width: 1920px;
+	height: 804px;
+	left: 0px;
+	top: 2105px;
+	overflow: visible;
+}
+#mission_statement_and_goals {
+	position: absolute;
+	width: 1920px;
+	height: 804px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectangle_13 {
+	fill: rgba(225,226,239,1);
+}
+.Rectangle_13 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 804px;
+	left: 0px;
+	top: 0px;
+}
+#Mission_Statement__San_Jos_Str {
+	left: 130px;
+	top: 80px;
+	position: absolute;
+	overflow: visible;
+	width: 1662px;
+	height: 536px;
+	line-height: 54px;
+	margin-top: -7px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
+#Group_11 {
+	position: absolute;
+	width: 490px;
+	height: 95px;
+	left: 715px;
+	top: 649px;
+	overflow: visible;
+}
+#Rectangle_8 {
+	fill: rgba(153,157,209,1);
+	stroke: rgba(164,168,221,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_8 {
+	position: absolute;
+	overflow: visible;
+	width: 490px;
+	height: 95px;
+	left: 0px;
+	top: 0px;
+}
+#Volunteer {
+	left: 156px;
+	top: 26px;
+	position: absolute;
+	overflow: visible;
+	width: 180px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#footer {
+	position: absolute;
+	width: 1920px;
+	height: 309px;
+	left: 0px;
+	top: 2909px;
+	overflow: visible;
+}
+#Rectangle_58 {
+	fill: rgba(164,168,221,1);
+}
+.Rectangle_58 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 309px;
+	left: 0px;
+	top: 0px;
+}
+#San_Jose_Strong__2020 {
+	left: 137px;
+	top: 208px;
+	position: absolute;
+	overflow: visible;
+	width: 493px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(0,0,0,1);
+}
